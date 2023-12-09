@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Nautilus</string>
+    <string name="info">Sabias que?</string>
+    <string name="water_amount">Hoje já foram consumidos mais de</string>
+    <string name="beers">cervejas (250 ml)</string>
+    <string name="coffees">chávenas de café (125 ml)</string>
+    <string name="breads">kgs de pão (de trigo)</string>
+    <string name="beefs">kgs de bife (de bovino)</string>
 </resources>

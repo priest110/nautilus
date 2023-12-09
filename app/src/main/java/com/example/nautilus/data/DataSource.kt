@@ -1,27 +1,16 @@
 package com.example.nautilus.data
 
-import com.example.nautilus.model.AwarenessImage
-import com.example.nautilus.model.Shower
+import com.example.nautilus.R
 
 
 /**
- * [Datasource] generates a list of [Shower] and [AwarenessImage]
+ * [DataSource] generates a list of awareness images
  */
 object DataSource {
-    val showersList = listOf(
-        Shower(0, 5),
-        Shower(1, 10),
-        Shower(2, 15),
-        Shower(3, 30),
-        Shower(4, 50),
-        Shower(5, 100)
-    )
-    val awarenessImagesList = listOf(
-        AwarenessImage(0, 5),
-        AwarenessImage(1, 10),
-        AwarenessImage(2, 15),
-        AwarenessImage(3, 30),
-        AwarenessImage(4, 50),
-        AwarenessImage(5, 100)
+    val awarenessMessages = listOf(
+        Pair(R.string.beers, 74),    // 74 litre for a glass of 250 ml (beer)
+        Pair(R.string.coffees, 132), // 132 litre per cup of 125 ml (coffee)
+        Pair(R.string.breads, 1608), // 1608 litre/kg pão de trigo
+        Pair(R.string.beefs, 15415)   // 15415 litre/kg bife de bovino
     )
 }
