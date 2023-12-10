@@ -70,7 +70,7 @@ fun InfoScreen(
                             Column(
                                 modifier = Modifier
                                     .fillMaxSize()
-                                    .padding(top = 150.dp, bottom = 150.dp)
+                                    .padding(top = 70.dp, bottom = 70.dp)
                                     .clip(shape = RoundedCornerShape(20.dp))
                                     .background(color = CustomBlue,  shape = RoundedCornerShape(20.dp)),
                                 verticalArrangement = Arrangement.Center, // Aligns content vertically
@@ -99,7 +99,7 @@ fun InfoScreen(
                             Column(
                                 modifier = Modifier
                                     .fillMaxSize()
-                                    .padding(top = 150.dp, bottom = 150.dp)
+                                    .padding(top = 70.dp, bottom = 70.dp)
                                     .clip(shape = RoundedCornerShape(20.dp))
                                     .background(color = CustomBlue,  shape = RoundedCornerShape(20.dp)),
                                 verticalArrangement = Arrangement.Center, // Aligns content vertically
@@ -142,7 +142,7 @@ fun InfoScreen(
                             Text(
                                 text = "Sabias que?",
                                 color = CustomBlue,
-                                fontSize = 60.sp,
+                                fontSize = 45.sp,
                                 modifier = Modifier.align(Alignment.TopCenter),
                                 textAlign = TextAlign.Center
                             )
@@ -153,7 +153,7 @@ fun InfoScreen(
                             Text(
                                 text = "$water_amount $total litros",
                                 color = Color.White,
-                                fontSize = 40.sp,
+                                fontSize = 30.sp,
                                 lineHeight = 40.sp,
                                 modifier = Modifier.align(Alignment.Center),
                                 textAlign = TextAlign.Center
@@ -180,7 +180,7 @@ fun InfoScreen(
                             Column(
                                 modifier = Modifier
                                     .fillMaxSize()
-                                    .padding(top = 150.dp, bottom = 150.dp)
+                                    .padding(top = 70.dp, bottom = 70.dp)
                                     .clip(shape = RoundedCornerShape(20.dp))
                                     .background(color = CustomBlue,  shape = RoundedCornerShape(20.dp)),
                                 verticalArrangement = Arrangement.Center, // Aligns content vertically
@@ -209,7 +209,7 @@ fun InfoScreen(
                             Column(
                                 modifier = Modifier
                                     .fillMaxSize()
-                                    .padding(top = 150.dp, bottom = 150.dp)
+                                    .padding(top = 70.dp, bottom = 70.dp)
                                     .clip(shape = RoundedCornerShape(20.dp))
                                     .background(color = CustomBlue,  shape = RoundedCornerShape(20.dp)),
                                 verticalArrangement = Arrangement.Center, // Aligns content vertically

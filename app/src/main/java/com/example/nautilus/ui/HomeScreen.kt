@@ -57,7 +57,7 @@ fun HomeScreen(
                 painter = image,
                 contentDescription = "Logo Nautilus",
                 modifier = Modifier
-                    .padding(8.dp)
+                    .padding(8.dp).fillMaxHeight(0.5F)
             )
             Button(onClick = onNextButtonClicked){
                 Text(
