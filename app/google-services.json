@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "46836310482",
+    "firebase_url": "https://nautilus-f69b6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nautilus-f69b6",
+    "storage_bucket": "nautilus-f69b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46836310482:android:610a5489ee442d7c48a80b",
+        "android_client_info": {
+          "package_name": "com.example.nautilus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46836310482-4hk0kc3ssq2a962mkepc0hjg8hvj1v25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI0WAQIWkVyFpT3Cxb1ugrNJmVLJAB1w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46836310482-4hk0kc3ssq2a962mkepc0hjg8hvj1v25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46836310482:android:e34d6ac58ab7e05448a80b",
+        "android_client_info": {
+          "package_name": "com.greenlab.nautilusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46836310482-4hk0kc3ssq2a962mkepc0hjg8hvj1v25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI0WAQIWkVyFpT3Cxb1ugrNJmVLJAB1w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46836310482-4hk0kc3ssq2a962mkepc0hjg8hvj1v25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
